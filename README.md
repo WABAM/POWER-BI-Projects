@@ -1,2 +1,2 @@
-# POWER-_BI_Projects
-All my Business Intelligence projects in this Repository
+# POWER-BI-Projects
+This repository consists of my Power BI dashboards
